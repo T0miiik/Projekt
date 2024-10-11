@@ -1,9 +1,12 @@
 -- první radek
 <<<<<<< HEAD
 -- druhy treti 
+sesty radek
 
 Hello :)
 
 hsdbhfshdze SHDFHE GDSJDFdfshdkf dshgjgh
 
 Ahoj shasuasda shgegdgJAJNSDFB
+
+vetev test
