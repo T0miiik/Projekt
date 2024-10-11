@@ -1,5 +1,5 @@
 -- první radek
--- druhy radek 
+-- druhy 
 
 Hello :)
 
