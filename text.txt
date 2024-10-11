@@ -1,4 +1,5 @@
 -- první radek
+<<<<<<< HEAD
 -- druhy treti 
 
 Hello :)
